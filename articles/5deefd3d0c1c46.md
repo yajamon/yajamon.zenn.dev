@@ -34,3 +34,15 @@ https://ja.wikipedia.org/wiki/Dvorak配列
 - Logicool MX Keys Mini キーボード（JIS配列）
 
 https://amzn.to/30M5pUA
+
+## PowerToys で Dvorak を目指す
+
+### Keyboard Manager の使い方
+
+PowerToys をインストールして、Keyboard Managerの設定画面を開くと、このような画面となる。
+
+![](/images/powertoys/2021-11-21-180248-keyman-dashboard.png)
+
+この、「キーの再マップ」によって、キー入力を置き換えられる。
+
+![](/images/powertoys/2021-11-21-180337-keyman-remaping.png)
