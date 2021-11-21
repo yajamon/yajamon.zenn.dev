@@ -8,3 +8,9 @@
 ```console
 npm install
 ```
+
+## Help
+
+```console
+npx zenn --help
+```
