@@ -3,7 +3,7 @@ title: "PowerToys で Dvorak配列 を目指す"
 emoji: "⌨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["dvorak", "input", "application"]
-published: false
+published: true
 ---
 
 WindowsにおけるDvorak入力について。`DvorakJ` を愛用してきたが、ふとした拍子（修飾キーを組み合わせた操作など）にリマップが効かなくなってしまうことが気になっていた。
