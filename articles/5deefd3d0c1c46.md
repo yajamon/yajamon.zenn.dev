@@ -1,5 +1,5 @@
 ---
-title: "PowerToys で Dvorak配列"
+title: "PowerToys で Dvorak配列 を目指す"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["dvorak", "input", "application"]
