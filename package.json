@@ -1,5 +1,8 @@
 {
     "private": true,
+    "scripts": {
+        "new-article": "zenn new:article"
+    },
     "devDependencies": {
         "zenn-cli": "^0.1.77"
     }
