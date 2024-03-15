@@ -7,6 +7,7 @@
 
 ```console
 npm install
+npx zenn
 ```
 
 ## Help
