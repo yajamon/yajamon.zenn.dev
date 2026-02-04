@@ -2,6 +2,7 @@
     "private": true,
     "scripts": {
         "new-article": "zenn new:article",
+        "open-article": "bin/peco-articles.sh",
         "new-book": "zenn new:book"
     },
     "devDependencies": {
