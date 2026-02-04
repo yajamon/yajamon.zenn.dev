@@ -5,6 +5,6 @@
         "new-book": "zenn new:book"
     },
     "devDependencies": {
-        "zenn-cli": "^0.2.3"
+        "zenn-cli": "^0.4.5"
     }
 }
